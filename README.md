@@ -1,3 +1,3 @@
-# rightTriangelSolver-Python
+# rightTriangleSolver-Python
 
 - 4th Day
